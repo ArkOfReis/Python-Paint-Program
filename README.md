@@ -1,5 +1,5 @@
 ```
-(-) Steps to use play Sudoku:
+(-) Steps to use the Paint Program:
 
 (1) Move the Folder to the Desktop
 
